@@ -6,7 +6,9 @@ FN: Jim  Barger
 ORG:Pacific Custom Pools, Inc.;
 TITLE:President
 EMAIL;type=INTERNET;type=WORK;type=pref:jim@pacificcustompools.com
-TEL;type=WORK;type=VOICE:+1 (626) 625 4000
+TEL;type=MOBILE;type=VOICE:+1 (626) 625 4000
+TEL;type=OFFICE;type=VOICE:+1 (626) 795 3400
+TEL;type=FAX;type=FACSIMILE:+1 (626) 795 4003
 item1.ADR;type=WORK;type=pref:;;2670 La Tierra St\nPasadena, CA 91107
 item1.X-ABADR:sg
 item2.URL;type=pref:pacificcustompools.com
